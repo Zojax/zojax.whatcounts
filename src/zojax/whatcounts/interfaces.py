@@ -1,7 +1,7 @@
 from zope import interface, schema
 from zope.i18nmessageid.message import MessageFactory
 
-_ = MessageFactory('zojax.undo')
+_ = MessageFactory('zojax.whatcounts')
 
 
 class IEmailListFactory(interface.Interface):
